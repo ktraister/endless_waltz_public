@@ -1,4 +1,4 @@
-![alt text](./.png/text_endless_waltz.png)
+![alt text](.png/text_endless_waltz.png)
 
 # Endless Waltz
 Endless Waltz is a messaging application using a One-Time Pad Cipher in conjunction 
