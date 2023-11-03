@@ -1,8 +1,7 @@
 ![alt text](.png/text_endless_waltz.png)
 
 # Endless Waltz
-Endless Waltz is a messaging application using a One-Time Pad Cipher in conjunction 
-with a Diffie-Hellman handshake to modify pads sent across the open internet.
+Endless Waltz is a messaging application using a One-Time Pad Cipher to encrypt messages sent across the open internet.
 
 It cannot be broken by any attacker, now or in the future, including quantum attacks. 
 
